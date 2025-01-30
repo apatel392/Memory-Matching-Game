@@ -13,6 +13,12 @@ Memory Matching Game is a web-based card-matching game built with HTML, CSS, and
 - **Congratulatory Screen**: Displays a message upon completing the game successfully.
 - **Interactive Animations**: Smooth flipping animations enhance the user experience.
 
+## Technologies Used
+
+- **HTML5** - Structure and layout of the game.
+- **CSS3** - Styling, animations, and responsiveness.
+- **JavaScript (ES6)** - Game logic, event handling, and interactivity.
+  
 ## Installation
 
 Follow these steps to set up and play the game on your local system:
@@ -55,9 +61,3 @@ Memory-Matching-Game/
 5. If the cards match, they remain visible; otherwise, they flip back.
 6. Continue matching pairs until all cards are revealed.
 7. Upon successfully matching all pairs, you will be directed to the congratulations screen.
-
-## Technologies Used
-
-- **HTML5** - Structure and layout of the game.
-- **CSS3** - Styling, animations, and responsiveness.
-- **JavaScript (ES6)** - Game logic, event handling, and interactivity.

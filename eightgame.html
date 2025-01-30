@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Memory Game</title>
+</head>
+<body>
+    <h1>8 Image Game:</h1>
+    <table align="center">
+        <tr class="start-buttons">
+            <td>
+                <button class="start-button" id="start-button-8-easy" onclick="startGame8('easy')">Start Game - Memory-Time: 8 seconds</button>
+            </td>
+            <td>
+                <button class="start-button" id="start-button-8-medium" onclick="startGame8('medium')">Start Game - Memory-Time: 5 seconds</button>
+            </td>
+            <td>
+                <button class="start-button" id="start-button-8-hard" onclick="startGame8('hard')">Start Game - Memory-Time: 3 seconds</button>
+            </td>
+        </tr>
+    </table>
+
+    <div id="game-container"></div>
+    <div id="timer"></div>
+    <script src="script.js"></script>
+</body>
+</html>

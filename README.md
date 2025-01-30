@@ -4,6 +4,9 @@
 
 Memory Matching Game is a web-based card-matching game built with HTML, CSS, and JavaScript. It features multiple difficulty levels, smooth animations, and a responsive design for an engaging experience.
 
+## 🔗 Live Demo
+[View Website](https://patelcodes26.github.io/Memory-Matching-Game/)
+
 ## Features
 
 - **Multiple Game Modes**: Choose between 8-card, 10-card, and 12-card variations for different difficulty levels.

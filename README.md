@@ -29,7 +29,7 @@ Follow these steps to set up and play the game on your local system:
 ### Download or Clone the Repository:
 
 ```bash
-git clone https://github.com/patelcodes26/Memory-Matching-Game.git
+git clone https://github.com/apatel392/Memory-Matching-Game.git
 ```
 
 ### Navigate to the Project Directory:
